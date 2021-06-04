@@ -1,2 +1,2 @@
-# ToDoList-App-Flutter
+# ToDoList
  Aplicativo de lista de tarefas
